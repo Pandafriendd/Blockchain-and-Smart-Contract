@@ -1,2 +1,2 @@
 # Blockchain-and-Smart-Contract
-Practices of smart contracts and blockchain technologies
+Practices of smart contracts and blockchain technologies.
